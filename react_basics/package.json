@@ -1,0 +1,29 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "React app",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishikeshinde1/namaste-react.git"
+  },
+  "author": "Rishi Shinde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishikeshinde1/namaste-react/issues"
+  },
+  "homepage": "https://github.com/rishikeshinde1/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.13.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
